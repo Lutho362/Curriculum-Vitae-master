@@ -34,6 +34,18 @@ back.addEventListener('click', ()=>{
 })
 
 
+// const removeFunct = nav =>{
+//   //console.log(nav);
+//   nav.addEventListener('click', ()=>{
+//     console.log('clicked');
+//     // smallNav.classList.remove('open');
+//     // smallNav.classList.add('close');
+//   }) 
+// }
+
+// for(var i = 1; i<=5; i++){
+//   removeFunct("nav" + i);
+// }
 
 nav1.onclick = function(){
   smallNav.classList.remove('open');

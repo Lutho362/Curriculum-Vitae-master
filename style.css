@@ -125,10 +125,10 @@ body{
     display: none;
 } 
 #back{
-    font-size: 5rem;
+    font-size: 3rem;
     position: absolute;
     top: .3rem;
-    left: .3rem;
+    left: .5rem;
     width: 5%;
     height: 8%;
 }
